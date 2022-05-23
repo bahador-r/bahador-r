@@ -1,3 +1,11 @@
+Hello,
+Thanks for viewing my profile.
+
+I'm bahador raghibizadeh. 
+I have been coding since 2010.
+My interest is working in big startups.
+
+My specialties:
 <table >
   <tr>
     <td>
@@ -56,8 +64,18 @@
       <img width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg" />
     </td>
     <td>
-       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" />
+      <img width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" />
     </td>
   </tr>
 </table>
+
+<img width="20px" src="https://cdn.sstatic.net/Sites/stackoverflow/Img/apple-touch-icon@2.png" /> If you are interested, visit my [StackOverflow profile](https://stackoverflow.com/users/5385135/bahador-raghibizadeh) too.
+
+
+
+e-mail: b.raghibizadeh@gmail.com
+
+phone: +905434953577
+
+
             
