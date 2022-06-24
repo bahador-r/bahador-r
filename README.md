@@ -75,7 +75,5 @@ My specialties:
 
 e-mail: b.raghibizadeh@gmail.com
 
-phone: +905434953577
-
 
             
