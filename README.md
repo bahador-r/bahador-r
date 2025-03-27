@@ -1,79 +1,24 @@
-Hello,
-Thanks for viewing my profile.
+Thank you for visiting my profile.
 
-I'm bahador raghibizadeh. 
-I have been coding since 2010.
-My interest is working in big startups.
+I’m Bahador Raghibizadeh, a dedicated software developer with over a decade of coding experience since 2010. I am passionate about leveraging my skills to contribute to innovative projects at leading startups.
+Technical Expertise
 
-My specialties:
-<table >
-  <tr>
-    <td>
-      <img width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
-    </td>
-    <td>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
-    </td>
-    <td>
-      <img width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-    </td>
-    <td>
-      <img width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
-    </td>
-    <td>
-      <img width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" />
-    </td>
-    <td>
-      <img width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />  
-    </td>
-  </tr>
-  <tr>
-    <td>
-       <img width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gulp/gulp-plain.svg" />
-    </td>
-    <td>
-      <img width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grunt/grunt-original-wordmark.svg" />
-    </td>
-    <td>
-      <img width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg" />
-    </td>
-    <td>
-      <img width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" />
-    </td>
-    <td>
-      <img width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" />
-    </td>
-    <td>
-      <img width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />
-    </td>
-  </tr>
-  <tr>
-    <td>
-       <img width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" />
-    </td>
-    <td>
-       <img width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" />
-    </td>
-    <td>
-      <img width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/handlebars/handlebars-original-wordmark.svg" />
-    </td>
-    <td>
-      <img width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" />
-    </td>
-    <td>
-      <img width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg" />
-    </td>
-    <td>
-      <img width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" />
-    </td>
-  </tr>
-</table>
+I specialize in a wide range of technologies and frameworks, including:
 
-<img width="20px" src="https://cdn.sstatic.net/Sites/stackoverflow/Img/apple-touch-icon@2.png" /> If you are interested, visit my [StackOverflow profile](https://stackoverflow.com/users/5385135/bahador-raghibizadeh) too.
+    Frontend Development: HTML5, CSS3, JavaScript, TypeScript, AngularJS, React, Sass
+    Build Tools: Gulp, Grunt
+    Backend & Full-Stack: Node.js, Express, Next.js, PHP, Handlebars, Golang, Gin
+    Databases: MongoDB, Firebase, Firestore, Postgres
+    Mobile Development: Flutter
+    DevOps: Docker, Kubernetes, Terraform
+    Cloud Platforms: Google Cloud Platform (GCP), Amazon Web Services (AWS)
+    Embedded Systems: Arduino, Raspberry Pi
 
+For a visual representation of my skills, feel free to explore the icons in my GitHub profile.
+Connect With Me
 
+If you'd like to learn more about my work, check out my StackOverflow profile.
 
-e-mail: b.raghibizadeh@gmail.com
+Email: b.raghibizadeh@gmail.com
 
-
-            
+Looking forward to collaborating on exciting opportunities!
