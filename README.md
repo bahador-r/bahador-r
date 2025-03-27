@@ -8,7 +8,7 @@ I specialize in a wide range of technologies and frameworks, including:
     Frontend Development: HTML5, CSS3, JavaScript, TypeScript, AngularJS, React, Sass
     Build Tools: Gulp, Grunt
     Backend & Full-Stack: Node.js, Express, Next.js, PHP, Handlebars, Golang, Gin
-    Databases: MongoDB, Firebase, Firestore, Postgres
+    Databases: MongoDB, Firestore, Postgres
     Mobile Development: Flutter
     DevOps: Docker, Kubernetes, Terraform
     Cloud Platforms: Google Cloud Platform (GCP), Amazon Web Services (AWS)
