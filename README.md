@@ -17,7 +17,7 @@ I specialize in a wide range of technologies and frameworks, including:
 For a visual representation of my skills, feel free to explore the icons in my GitHub profile.
 Connect With Me
 
-If you'd like to learn more about my work, check out my StackOverflow profile.
+If you'd like to learn more about my work, check out my [StackOverflow profile](https://stackoverflow.com/users/5385135/bahador-raghibizadeh).
 
 Email: b.raghibizadeh@gmail.com
 
