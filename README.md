@@ -13,7 +13,7 @@ I specialize in a wide range of technologies and frameworks, including:
 - **DevOps**: Docker, Kubernetes, Terraform  
 - **Cloud Platforms**: Google Cloud Platform (GCP), Amazon Web Services (AWS), Firebase, Supabase  
 - **Embedded Systems**: Arduino, Raspberry Pi  
-- **Blockchain**: expertise in Tron and Polygon networks  
+- **Blockchain**: Expertise in Tron and Polygon networks  
 
 For a visual representation of my skills, feel free to explore the icons in my GitHub profile.  
 
