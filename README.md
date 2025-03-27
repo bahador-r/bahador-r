@@ -16,7 +16,6 @@ I specialize in a wide range of technologies and frameworks, including:
 - **Blockchain**: Expertise in Tron and Polygon networks  
 
 ### Connect With Me  
-If you'd like to learn more about my work, check out my [StackOverflow profile](https://stackoverflow.com/users/5385135/bahador-raghibizadeh).  
 
 **Email**: b.raghibizadeh@gmail.com  
 
